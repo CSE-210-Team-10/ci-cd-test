@@ -5,5 +5,5 @@
  * @returns {string} The standardized string, converted to lowercase.
  */
 export function standardize_string(input) {
-  // return input.toLowerCase();
+  return input.toLowerCase();
 }

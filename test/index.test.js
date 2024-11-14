@@ -1,4 +1,4 @@
-import { standardize_string } from '../../src/js/app.js';
+import { standardize_string } from '../src/index.js';
 
 describe('standardize_string', () => {
   test('Should return an empty string when the input is an empty string', () => {
