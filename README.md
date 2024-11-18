@@ -29,3 +29,7 @@ This is a sample repository where we test our CI/CD pipeline before we apply it 
    1. gather the link that serves the production bundle from GitHub Action
    2. send it to others to review your changes
 8. New changes will be automatically updated in staging environment once merged into `release` branch
+
+- To see the process visually:
+
+<img src="./images/ci-cd.png"></img>
